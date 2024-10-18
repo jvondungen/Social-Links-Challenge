@@ -75,5 +75,5 @@ color:var(--grey800);}
 padding-top: 10px; }
     .attribution a { color: hsl(228, 45%, 44%); }
 
-@media screen and (max-width: 375px) {.card-container{width:350;}}
+@media screen and (max-width: 375px) {.card-container{width:325px;}}
     
